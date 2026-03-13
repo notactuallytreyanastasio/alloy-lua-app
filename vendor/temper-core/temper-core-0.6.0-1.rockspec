@@ -19,5 +19,5 @@ dependencies = {"lua >= 5.1"}
 
 source = {
     -- URL replaced on build to absolute path.
-    url = "file:///home/runner/work/generic_orm/generic_orm/temper.out/lua/temper-core/temper-core.zip"
+    url = "file:///home/runner/work/alloy/alloy/temper.out/lua/temper-core/temper-core.zip"
 }

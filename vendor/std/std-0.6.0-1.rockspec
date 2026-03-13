@@ -17,5 +17,5 @@ dependencies = {
     'temper-core == 0.6.0',
 }
 source = {
-    url = 'file:///home/runner/work/generic_orm/generic_orm/temper.out/lua/std/std.zip',
+    url = 'file:///home/runner/work/alloy/alloy/temper.out/lua/std/std.zip',
 }
